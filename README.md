@@ -1,9 +1,9 @@
 # Maven web application project
 
 ### Clean fresh application code is available in hell-world-maven branch and hello-world-maven tag
-To clone the hello-world-maven branch
+To clone the main branch
 ```
-git clone -b hello-world-maven https://github.com/sidharthsudheer20/hello-world.git
+git clone -b main https://github.com/sidharthsudheer20/hello-world.git
 ```
 ### To generate the package
 ```
